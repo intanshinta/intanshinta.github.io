@@ -392,17 +392,83 @@
                         </div>
                         <div class="card">
                             <div class="img">
-                                <img src="https://classiclanka.com/wp-content/uploads/2022/06/Galle.webp" />
+                                <img src="asakai.jpeg" />
                             </div>
                             <div class="content">
                                 <div class="title">
                                     Dashboard ASAKAI
                                 </div>
+                                <div style="float: right">
+                                    <i class="fa-brands fa-html5" style="color: #E14E1D;"></i>
+                                    <i class="fa-brands fa-css3-alt" style="color: #0277BD"></i>
+                                    <i class="fa-brands fa-js" style="color: #F7DF1E"></i>
+                                    <i class="fa-brands fa-php" style="color: #777BB3"></i>
+                                    <i class="fa-brands fa-laravel" style="color: #FF2D20"></i>
+                                </div>
                                 <div class="sub-title">
-                                    Known for it's historic fort
+                                    Project Date: Okt 2022 - Jan 2023
                                 </div>
                                 <p>
                                     This system is in the form of monitoring reports, which I happen to hold a project for the EHS department.
+                                </p>
+                                <a href="https://github.com/intanshinta">
+                                    <button>
+                                        <i class="fab fa-github icon"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <br>
+                    <div class="slider owl-carousel">
+                        <div class="card">
+                            <div class="img">
+                                <img src="apar.jpg" />
+                            </div>
+                            <div class="content">
+                                <div class="title">
+                                    APAR & Hydrant
+                                </div>
+                                <div style="float: right">
+                                    <i class="fa-brands fa-html5" style="color: #E14E1D;"></i>
+                                    <i class="fa-brands fa-css3-alt" style="color: #0277BD"></i>
+                                    <i class="fa-brands fa-js" style="color: #F7DF1E"></i>
+                                    <i class="fa-brands fa-php" style="color: #777BB3"></i>
+                                    <i class="fa-brands fa-laravel" style="color: #FF2D20"></i>
+                                </div>
+                                <div class="sub-title">
+                                    Project Date: Apr 2022 - Nov 2022
+                                </div>
+                                <p>
+                                    Monitoring APAR & Hydrant menggunakan QRCode dalam pengecekannya.
+                                </p>
+                                <a href="https://github.com/intanshinta">
+                                    <button>
+                                        <i class="fab fa-github icon"></i>
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="card">
+                            <div class="img">
+                                <img src="smk3l.png" />
+                            </div>
+                            <div class="content">
+                                <div class="title">
+                                    Audit SMK3L
+                                </div>
+                                <div style="float: right">
+                                    <i class="fa-brands fa-html5" style="color: #E14E1D;"></i>
+                                    <i class="fa-brands fa-css3-alt" style="color: #0277BD"></i>
+                                    <i class="fa-brands fa-js" style="color: #F7DF1E"></i>
+                                    <i class="fa-brands fa-php" style="color: #777BB3"></i>
+                                    <i class="fa-brands fa-laravel" style="color: #FF2D20"></i>
+                                </div>
+                                <div class="sub-title">
+                                    Project Date: Feb 2022 - Jan 2023
+                                </div>
+                                <p>
+                                    Internal audit application related to SMK3L
                                 </p>
                                 <a href="https://github.com/intanshinta">
                                     <button>

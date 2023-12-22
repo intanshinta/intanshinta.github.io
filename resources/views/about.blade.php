@@ -184,6 +184,7 @@
                                 <i class="fa-brands fa-laravel" style="color: #FF2D20"></i>
                                 <img width="40" height="40" src="{{ asset('postgresql-icon.svg') }}" style="display: inline-block;">
                                 <i class="fa-brands fa-gitlab" style="color: #E24329"></i>
+                                <i class="fa-brands fa-github" style="color: white"></i>
                                 <img width="40" height="40" src="{{ asset('figma.svg') }}" style="display: inline-block;">
                             </div>
                         </div>
